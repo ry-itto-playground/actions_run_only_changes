@@ -2,8 +2,8 @@ name: Example
 
 on: 
   push:
-    paths: src
-    paths-ignore: tmp
+    paths: src/**
+    paths-ignore: tmp/**
 
 jobs:
   build:
