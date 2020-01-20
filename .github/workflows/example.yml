@@ -3,7 +3,6 @@ name: Example
 on: 
   push:
     paths: src/**
-    paths-ignore: tmp/**
 
 jobs:
   build:
