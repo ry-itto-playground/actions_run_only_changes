@@ -1,4 +1,4 @@
-name: Example
+name: Example-ignore
 
 on: 
   push:
