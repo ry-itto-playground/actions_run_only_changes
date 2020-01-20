@@ -1,1 +1,2 @@
 A hoge.txt file.
+Second time.
